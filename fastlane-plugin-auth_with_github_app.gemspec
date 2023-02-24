@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email         = 'kawagutsuchi@gmail.com'
 
   spec.summary       = 'Get a GitHub access token using the GitHub App'
-  # spec.homepage      = "https://github.com/<GITHUB_USERNAME>/fastlane-plugin-auth_with_github_app"
+  spec.homepage      = "https://github.com/k-kohey/fastlane-plugin-auth-with-github-app"
   spec.license       = "MIT"
 
   spec.files         = Dir["lib/**/*"] + %w(README.md LICENSE)
